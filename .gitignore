@@ -29,5 +29,11 @@ sanity.cli.js
 .DS_Store
 *.pem
 
+# documentation
+"Website Info.docx"
+WebsiteInfo.zip
+doc_text.txt
+docx_extracted/
+
 # vercel
 .vercel
